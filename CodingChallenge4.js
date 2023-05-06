@@ -20,4 +20,4 @@ let result = senArr.find(item => item.length === maxLengthInArr);
   }
      
   // keep this function call here 
-  console.log(LongestWord(readline()));
+  console.log(LongestWord("String to Test if my function works correctly!"));
